@@ -1,0 +1,50 @@
+Package Report
+
+-----------------------------------------------------------------------------
+Document:
+Name: selflogostudy.ai
+Color Mode: RGB color
+Color Profile: none
+Ruler Units: inches
+Artboard Dimensions: 7.7273 in x 9.5152 in
+Show Images in Outline Mode: OFF
+Highlight Substituted Fonts: OFF
+Highlight Substituted Glyphs: OFF
+Preserve Text Editability
+Simulate Colored Paper: OFF
+
+-----------------------------------------------------------------------------
+Spot Color Objects:
+
+-----------------------------------------------------------------------------
+Missing Fonts:
+Bauhaus Medium* (not installed)
+
+-----------------------------------------------------------------------------
+Protected Fonts that were not packaged:NONE
+
+-----------------------------------------------------------------------------
+Fonts:
+AR BONNIE (OTF)
+AR BERKLEY (OTF)
+Myanmar Text (OTF)
+Arial Black (OTF)
+Broadway (OTF)
+Trajan Pro (OTF)
+Americana Std Roman (OTF)
+Coronet LT Std (OTF)
+Bauhaus Std Medium (OTF)
+Bauhaus Std Light (OTF)
+Eccentric Std (OTF)
+
+-----------------------------------------------------------------------------
+Embedded Fonts:
+NONE
+
+-----------------------------------------------------------------------------
+Missing Links:
+NONE
+
+-----------------------------------------------------------------------------
+Linked Images:
+NONE

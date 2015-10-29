@@ -1,0 +1,15 @@
+c:\users\aandrade-juarez\documents\visual studio 2015\Projects\Assignment1\Assignment1\bin\Debug\Assignment1.exe.config
+C:\Users\aandrade-juarez\Documents\Visual Studio 2015\Projects\Assignment1\Assignment1\bin\Debug\Assignment1.exe
+C:\Users\aandrade-juarez\Documents\Visual Studio 2015\Projects\Assignment1\Assignment1\bin\Debug\Assignment1.pdb
+C:\Users\aandrade-juarez\Documents\Visual Studio 2015\Projects\Assignment1\Assignment1\obj\Debug\Assignment1.exe
+C:\Users\aandrade-juarez\Documents\Visual Studio 2015\Projects\Assignment1\Assignment1\obj\Debug\Assignment1.pdb
+C:\Users\aandrade-juarez\Documents\Visual Studio 2015\Projects\Assignment1\Assignment1\obj\Debug\Assignment1.csprojResolveAssemblyReference.cache
+E:\itc110\Assignments\Assignment1\Assignment1\bin\Debug\Assignment1.exe.config
+E:\itc110\Assignments\Assignment1\Assignment1\obj\Debug\Assignment1.exe
+E:\itc110\Assignments\Assignment1\Assignment1\obj\Debug\Assignment1.pdb
+F:\School\itc110\Assignments\Assignment1\Assignment1\bin\Debug\Assignment1.exe.config
+F:\School\itc110\Assignments\Assignment1\Assignment1\obj\Debug\Assignment1.exe
+F:\School\itc110\Assignments\Assignment1\Assignment1\obj\Debug\Assignment1.pdb
+F:\School\itc110\Assignments\Assignment1\Assignment1\bin\Debug\Assignment1.exe
+F:\School\itc110\Assignments\Assignment1\Assignment1\bin\Debug\Assignment1.pdb
+F:\School\itc110\Assignments\Assignment1\Assignment1\obj\Debug\Assignment1.csprojResolveAssemblyReference.cache

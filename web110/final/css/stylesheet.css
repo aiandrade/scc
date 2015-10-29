@@ -1,0 +1,156 @@
+
+* {
+padding: 0;
+margin:0;
+}
+
+body {
+background-color: #2C2B2E;
+background-image: url(http://kaywalshphotography.com/wordpress/wp-content/uploads/galleries/post-372/blue%20and%20yellow%20wall%20with%20pots%20copy.jpg);
+background-repeat:no-repeat;
+background-size:cover;
+line-height: 1.4;
+overflow-y: scroll;
+}
+
+#wrapper {
+width: 80%;
+max-width:1200px;
+margin: 0px auto 30px auto;
+padding:20px;
+background: rgb(54, 25, 25); 
+background: rgba(66, 60, 59, .9);
+}
+
+
+header {
+margin-bottom: 20px;
+}
+
+nav ul {
+text-align: center;
+}
+
+nav li {
+width: 20%;
+float: left;
+list-style-type: none;
+}
+
+nav a {
+text-decoration: none;
+color:#ffffff;
+display: block;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+
+nav a#current {
+color: purple;
+display: block
+}
+
+nav a:hover {
+color: orange;
+}
+
+a.farmer{
+color: orange;
+}
+
+nav, footer {
+clear: both;
+height: 50px;
+line-height: 50px;
+background: grey;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+main {
+width:65%;
+float: left;
+color: #F3F1FF;
+font-family: Arial, Helvetica, sans-serif;
+padding: 0px 0px 10px 0px;
+}
+
+
+img.left {
+float: left;
+margin: 10px 10px 0px 0px;
+}
+
+img.farmer {
+width: 100%;
+}
+
+img.salsajar {
+width: 100%;
+}
+
+aside {
+width: 30%;
+float: right;
+padding: 30px 0px 10px 10px;
+color: #F3F1FF;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+label {
+display: block;
+margin-bottom: 5px; 
+}
+
+fieldset {
+padding: 10px 15px 10px 10px;
+}
+
+input[type=text], 
+input [type=email]{
+height: 20px;
+width: 100%;
+margin-bottom:15px;
+}
+
+textarea {
+width: 100%;
+margin-bottom:10px;
+}
+
+select {
+padding:5px;
+margin-bottom:10px;
+}
+
+legend {
+padding:10px;
+font-size:1.4em;
+border-radius:5px;
+}
+
+
+footer ul {
+margin-left: 20px;
+}
+
+footer li {
+color: #fff;
+display: inline;
+padding: 0 30px 0 0;
+}
+
+footer a {
+color: #fff;
+}
+
+footer a:hover {
+color: orange;
+}
+
+p {
+padding-bottom: 20px;
+}
+
+a {
+text-decoration: none;
+}

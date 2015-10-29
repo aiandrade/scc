@@ -1,0 +1,52 @@
+Package Report
+
+-----------------------------------------------------------------------------
+Document:
+Name: bdclogostudy.ai
+Color Mode: RGB color
+Color Profile: none
+Ruler Units: inches
+Artboard Dimensions: 7.7273 in x 9.5152 in
+Show Images in Outline Mode: OFF
+Highlight Substituted Fonts: OFF
+Highlight Substituted Glyphs: OFF
+Preserve Text Editability
+Simulate Colored Paper: OFF
+
+-----------------------------------------------------------------------------
+Spot Color Objects:
+
+-----------------------------------------------------------------------------
+Missing Fonts:
+Bauhaus Medium* (not installed)
+
+-----------------------------------------------------------------------------
+Protected Fonts that were not packaged:NONE
+
+-----------------------------------------------------------------------------
+Fonts:
+AR BONNIE (OTF)
+Myanmar Text (OTF)
+Arial Black (OTF)
+Californian FB (OTF)
+Garamond Bold (OTF)
+Garamond (OTF)
+Graphite Std (OTF)
+Trajan Pro (OTF)
+Americana Std Roman (OTF)
+Coronet LT Std (OTF)
+Bauhaus Std Light (OTF)
+Bell Centennial Std Address (OTF)
+Helvetica Neue LT Std 27 Ultra Light Condensed (OTF)
+
+-----------------------------------------------------------------------------
+Embedded Fonts:
+NONE
+
+-----------------------------------------------------------------------------
+Missing Links:
+NONE
+
+-----------------------------------------------------------------------------
+Linked Images:
+NONE

@@ -1,0 +1,8 @@
+c:\users\aandrade-juarez\documents\visual studio 2015\Projects\Assignment1C\Assignment1C\bin\Debug\Assignment1C.exe.config
+C:\Users\aandrade-juarez\Documents\Visual Studio 2015\Projects\Assignment1C\Assignment1C\bin\Debug\Assignment1C.exe
+C:\Users\aandrade-juarez\Documents\Visual Studio 2015\Projects\Assignment1C\Assignment1C\bin\Debug\Assignment1C.pdb
+C:\Users\aandrade-juarez\Documents\Visual Studio 2015\Projects\Assignment1C\Assignment1C\obj\Debug\Assignment1C.exe
+C:\Users\aandrade-juarez\Documents\Visual Studio 2015\Projects\Assignment1C\Assignment1C\obj\Debug\Assignment1C.pdb
+F:\School\itc110\Assignments\Assignment1C\Assignment1C\bin\Debug\Assignment1C.exe.config
+F:\School\itc110\Assignments\Assignment1C\Assignment1C\obj\Debug\Assignment1C.exe
+F:\School\itc110\Assignments\Assignment1C\Assignment1C\obj\Debug\Assignment1C.pdb

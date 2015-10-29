@@ -1,0 +1,57 @@
+<html>
+    <head>
+    <title>Employee Happiness Report</title>
+        <style>
+        body {font-family:georgia;}
+        #report {
+            max-width:600px;
+            margin:5px;
+            padding:2px;
+        }
+        #report > div {
+            padding:5px;
+            min-height:40px;
+            margin-bottom:5px;
+            border:1px solid #E77D2C;
+            -moz-border-radius: 5px; 
+            -webkit-border-radius: 5px;
+            border-radius: 5px;
+            position:relative; /* required to place #pic to right */
+        }
+
+        #report h3 {
+            font-family:georgia;
+            padding:5px;
+            color:#fff;
+            background:#E77D2C;
+            margin:0;
+        }
+
+        .pic{
+            position:absolute;
+            right:10px;
+            top:10px;
+        }
+        .pic img{
+          max-height:150px;  
+        }
+		.container{
+			height: 160px;
+		}
+        </style>
+
+    </head>
+	<body>
+	<h1>Employee Happiness Report</h1>
+		<h3 id="filmtitle">Below is a of our employee's satisfaction.</h3>
+		<div id="report">
+                <div class="container">
+                    <p><b>Name:</b> John</p>
+                    <p><b>Current Pay:</b> $75,000.00</p>
+                    <p><b>Requested Pay:</b> $70,000.00</p>
+                    <p><b>Minimum Pay:</b> $50,000.00</p>
+                    <div class="pic"><img src="images/happy.jpg"></div>
+                </div>
+		</div>
+	</body>
+</html>

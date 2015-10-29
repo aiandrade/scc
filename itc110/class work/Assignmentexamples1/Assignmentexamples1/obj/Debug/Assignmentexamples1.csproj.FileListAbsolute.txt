@@ -1,0 +1,12 @@
+c:\users\aandrade-juarez\documents\visual studio 2015\Projects\Assignmentexamples1\Assignmentexamples1\bin\Debug\Assignmentexamples1.exe.config
+c:\users\aandrade-juarez\documents\visual studio 2015\Projects\Assignmentexamples1\Assignmentexamples1\bin\Debug\Assignmentexamples1.exe
+c:\users\aandrade-juarez\documents\visual studio 2015\Projects\Assignmentexamples1\Assignmentexamples1\bin\Debug\Assignmentexamples1.pdb
+c:\users\aandrade-juarez\documents\visual studio 2015\Projects\Assignmentexamples1\Assignmentexamples1\obj\Debug\Assignmentexamples1.csprojResolveAssemblyReference.cache
+c:\users\aandrade-juarez\documents\visual studio 2015\Projects\Assignmentexamples1\Assignmentexamples1\obj\Debug\Assignmentexamples1.exe
+c:\users\aandrade-juarez\documents\visual studio 2015\Projects\Assignmentexamples1\Assignmentexamples1\obj\Debug\Assignmentexamples1.pdb
+F:\School\itc110\class work\Assignmentexamples1\Assignmentexamples1\bin\Debug\Assignmentexamples1.exe.config
+F:\School\itc110\class work\Assignmentexamples1\Assignmentexamples1\obj\Debug\Assignmentexamples1.exe
+F:\School\itc110\class work\Assignmentexamples1\Assignmentexamples1\obj\Debug\Assignmentexamples1.pdb
+F:\School\itc110\class work\Assignmentexamples1\Assignmentexamples1\bin\Debug\Assignmentexamples1.exe
+F:\School\itc110\class work\Assignmentexamples1\Assignmentexamples1\bin\Debug\Assignmentexamples1.pdb
+F:\School\itc110\class work\Assignmentexamples1\Assignmentexamples1\obj\Debug\Assignmentexamples1.csprojResolveAssemblyReference.cache

@@ -35,7 +35,7 @@ header   {
 	font-size:300%;
 	line-height:1.5;
 	color:#ffffff;
-	padding: 0 20px 0 0;
+	padding: 0 20px 180px 0;
 	
 }
 
@@ -88,24 +88,48 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ff5db1', end
 
 }
 
-nav li   {
-	float:left;
-	width:16.66%;
+nav ul {
 	text-align:center;
-	line-height:50px;
-	list-style-type:none;
-	font-variant:small-caps;
 }
 
-nav a   {
+
+
+nav ul li.nav {
+	float: left;
+	width: 16.6%;
+	list-style-type: none;
+	line-height: 50px;
+	font-variant: small-caps;
+	color:#292022;
+}
+
+nav ul li.nav-on {
+	float: left;
+	width: 16.6%;
+	list-style-type: none;
+	line-height: 50px;
+	font-variant: small-caps;
+	color:#292022;
+	text-decoration:none;
+}
+	
+nav ul li.nav a   {
 	font-family:'PT Sans Caption', sans-serif;
 	display:block;
 	text-decoration:none;
 	color:#292022;
-	font-weight:400;
 }
 
-nav a:hover   {
+nav ul li.nav-on a   {
+	font-family:'PT Sans Caption', sans-serif;
+	display:block;
+	background:#F5B939;
+	border-radius: 10px;
+	color:#292022;
+	text-decoration:none;
+}
+
+nav ul li.nav a:hover   {
 	background:#F5B939;
 	border-radius: 10px;
 }
@@ -196,4 +220,77 @@ h4   {
 img {
 
 padding: 5px 5px 5px 5px;
+}
+
+
+/***************form***************/
+
+
+form   {
+	padding:1em;
+	font-size:100%;
+}
+
+form h1   {
+	padding-bottom:0;
+	line-height:1;
+}
+
+form legend   {
+	font-size:1.953em;
+	color:#F5B939;
+}
+
+fieldset   {
+	padding-left:1em;
+}
+
+label   {
+	display:block;
+	padding-top:.4em;
+	padding-bottom:.4em;
+	font-size:1.2em;
+	line-height:1.1;
+}
+
+form p   {
+	margin:0 0 .2em 0;
+	padding:0;
+}
+
+input[type=text], input[type=email], 
+input[type=tel], input[type=url], textarea   {
+	display:block;
+	border:3px solid #F5B939;
+	font-size:1em;
+	font-family:'PT Sans', sans-serif;
+	width:95%;
+}
+
+input[type=text], input[type=email], 
+input[type=tel], input[type=url]   {
+	height:1.4em;
+	margin-bottom:.8em;
+}
+
+input[type=checkbox], input[type=radio]   {
+	display:inline;
+	margin-right:5px;
+}
+
+textarea   {
+	margin-top:.7em;
+}
+
+input[type=submit]   {
+	background:#ffffff;
+	font-weight:bold;
+	font-size:150%;
+	font-variant:small-caps;
+	border-radius:5px;
+	width:30%;
+	border:1px #F5B939 solid;
+	height:1.5em;
+	color:#F5B939;
+	margin-bottom:.8em;
 }

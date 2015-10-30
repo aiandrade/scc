@@ -1,53 +1,17 @@
-
-<!doctype html>
-<html>
-<head>
-<meta charset="UTF-8">
-<title>HW 3 - The Perfect Index</title>
+<?php include("includes/doc.php"); ?>
 
 <link rel="stylesheet" type="text/css" href="css/styles.css">
 
 <link href="http://fonts.googleapis.com/css?family=PT+Sans+Caption:400,700" rel="stylesheet" type="text/css">
 
 <link href="http://fonts.googleapis.com/css?family=Arvo:400,700,400italic,700italic" rel="stylesheet" type="text/css">
-<script type="text/javascript">
-function MM_openBrWindow(theURL,winName,features) { //v2.0
-  window.open(theURL,winName,features);
-}
-</script>
+<title>HW4 Welcome!</title>
+
 </head>
 
 <body>
 
-<header>
-
-<div id="logo">
-<h1>Visit Mexico</h1>
-</div><!--end logo-->
-<div id="social">
-    <ul>
-       <li class="utilities"><a href=""><img src="images/twitter.png" alt="Twitter"></a></li>
-        <li class="utilities"><a href=""><img src="images/facebook-circle.png" alt="Facebook"></a></li>
-
-    </ul>
-</div> <!--end social-->
-</header>
-
-<nav>
-
-<ul>
-
-<li><a href="">Home</a></li>
-<li><a href="">Destinations</a></li>
-<li><a href="">Culture</a></li>
-<li><a href="">About Us</a></li>
- <li><a href="javascript:;" onclick="MM_openBrWindow('contact.html','contact','scrollbars=yes,width=500px,height=500px')">Contact</a></li>
-        
-<li><a href="">Travel Tips</a></li>
-
-</ul>
-
-</nav>
+<?php include("includes/header.php"); ?>
 
 <div id="wrapper">
 	
@@ -62,6 +26,8 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 <h3>Discover the different cultures Mexico has to offer</h3>
 
 <p>Make of Mexico the excuse for your next vacation and get your senses ready for an experience full of magic, color and warmth. Come and fall in love with Mexico!</p>
+
+<p><a href="https://validator.w3.org/nu/?doc=http%3A%2F%2Fedison.seattlecentral.edu%2F~aandra03%2Fweb120%2Fhomework4%2Findex.php">VALID</a></p>
 
 
 </main>
@@ -84,20 +50,10 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 
 </div>   <!--end wrapper-->
 
-<footer>
-
-<ul>
-
-<li>Copyright &copy; 2015</li>
-<li>All Rights Reserved</li>
-<li><a href="../index.html">Web Design by Ana</a></li>
-<li><a href="https://validator.w3.org/nu/?doc=http%3A%2F%2Fedison.seattlecentral.edu%2F~aandra03%2Fweb120%2Fhomework3%2F"><img src="images/html5.png" alt="HTML5 Valid"></a></li>
-<li><a href="https://jigsaw.w3.org/css-validator/validator?uri=http%3A%2F%2Fedison.seattlecentral.edu%2F~aandra03%2Fweb120%2Fhomework3%2F&amp;profile=css3&amp;usermedium=all&amp;warning=1&amp;vextwarning=&amp;lang=en"><img src="images/css3.png" alt="CSS3 Valid"></a></li>
-
-</ul>
+<?php include("includes/footer.php"); ?>
 
 
-</footer>
+
 
 </body>
 </html>
